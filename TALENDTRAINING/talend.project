@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_9IclgbDOEem765G_-4RAcA" label="TalendTraining" description="Training Modules" language="java" technicalLabel="TALENDTRAINING" author="_9IclgrDOEem765G_-4RAcA" productVersion="Talend Cloud Data Management Platform-7.1.1.20190228_0243-patch" url="{&quot;location&quot;:&quot;https://github.com/willwhitehead94/talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_9O5LwLDOEem765G_-4RAcA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_9IclgrDOEem765G_-4RAcA" login="whitehead.williamthomas@trial22049.us.talend.com" firstName="Will" lastName="Whitehead" type="DQ"/>
+</xmi:XMI>
